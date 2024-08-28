@@ -9,7 +9,7 @@
 }
 /* /* z */
 .navbar-main{
-    border: 1px solid red;
+    
     display: flex;
     justify-content: space-between;
     max-width: 1440px;
@@ -45,4 +45,13 @@
 h2{
     color: #E6533C;
 
+}
+.nav-humburger-menu{
+    display: none;
+}
+.main-content{
+    max-width: 1440px;
+    margin: 0 auto;
+  
+    border: 2px solid red;
 }

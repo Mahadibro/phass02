@@ -1,0 +1,17 @@
+@media  screen and (max-width:576px) {
+    .navbar-main{
+        flex-direction: row;
+        align-items: center;
+    }
+    .navbar-main>div{
+        margin-top: 20px;
+        display: none;
+    }
+    .nav-humburger-menu{
+        display: block;
+    }
+   .one{
+    display: none;
+   }
+
+}
